@@ -5,7 +5,7 @@
 ## Master Node
 ### Node 1
 * VM image: RHEL
-* VM name: master-node
+* VM name: master
 * username: node1
 * password: ssh -i ~/.ssh/master-node node1@52.188.171.152
 
