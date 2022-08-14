@@ -1,6 +1,7 @@
 # PRJ690 POC
 
 
+![Infrastructure as Code drawio](https://user-images.githubusercontent.com/67943978/184555209-eeedc97c-b4ff-4883-b37a-29db4d90c02c.png)
 
 # Configuration
 ## Master Node
