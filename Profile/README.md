@@ -1,6 +1,6 @@
 # PRJ690 POC
 
-![DevOps Architechture drawio](https://user-images.githubusercontent.com/67943978/184555148-5929255c-5073-4221-81f1-83845644a399.png)
+
 
 # Configuration
 ## Master Node
